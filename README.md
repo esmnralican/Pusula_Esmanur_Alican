@@ -1,4 +1,5 @@
-# pusula_task
+# Pusula_Esmanur _Alican
+# esmnralicann@gmail.com 
 # Pusula Data Science Case Study
 
 ## Proje Özeti
